@@ -1,0 +1,7 @@
+Suppose we have the processing cost per unit at each process i, denoted as Ci, in the supply
+chain. This cost is the part of the total processing cost that is associated with the delivery
+time. For example, in the case of a manufacturing process, it could be the opportunity cost
+of capital tied up with machinery. In addition, if it is a logistics process, then it may rep-
+resent the cost of transportation itself. We suppose that the mean processing time for all
+potential service suppliers is almost the same but their variance may differ and hence
+dfdfgd fsdfdfgd fgdgdgd
